@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bernie-ph
+- 👋 Hi, I’m Bernice
 - 👀 I’m interested in web development and data analytics.
 - 🌱 I’m currently learning frontend devleopment and machine learning.
 - 📫 You can reach me on email @bernicephoebe85@gmail.com
